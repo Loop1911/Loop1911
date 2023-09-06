@@ -1,4 +1,4 @@
-[![MasterHead](file:///C:/Users/naika/Downloads/coding.png)]
+[![MasterHead](https://media.tenor.com/E-nDfIZsFfYAAAAC/neon-80s.gif)]
 
 <h1 align="center">Hi 👋, I'm Aryan Naik</h1>
 <h3 align="center">A passionate frontend developer from India with knowledge of backend.</h3>
