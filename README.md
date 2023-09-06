@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Aryan Naik</h1>
 <h3 align="center">A passionate frontend developer from India with knowledge of backend.</h3>
 
-<img align="left" alt="coding" width="400" src="https://cdn.dribbble.com/users/2459439/screenshots/5314041/gamerpeople1_3.gif"  >
+<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/2459439/screenshots/5314041/gamerpeople1_3.gif"  >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=loop1911&label=Profile%20views&color=0e75b6&style=flat" alt="loop1911" /> </p>
 
