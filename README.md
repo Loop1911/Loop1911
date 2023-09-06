@@ -1,4 +1,4 @@
-![logo](https://c4.wallpaperflare.com/wallpaper/651/727/590/gaming-setup-steelseries-keyboards-headphones-mouse-pad-hd-wallpaper-preview.jpg)
+![logo](https://thumbor.autonomous.ai/JFDrqbJza29_5HF-103th6PYlfY=/1600x900/smart/https://cdn.autonomous.ai/static/upload/images/new_post/guide-to-a-pro-gaming-setup-3904-1643344819313.jpg)
 
 <h1 align="center">Hi 👋, I'm Aryan Naik</h1>
 <h3 align="center">A passionate frontend developer from India with knowledge of backend.</h3>
