@@ -1,4 +1,4 @@
-![logo](https://wallpapers.com/images/hd/life-with-coding-x8omkamuu7fal31z.jpg)
+![logo](https://c4.wallpaperflare.com/wallpaper/651/727/590/gaming-setup-steelseries-keyboards-headphones-mouse-pad-hd-wallpaper-preview.jpg)
 
 <h1 align="center">Hi 👋, I'm Aryan Naik</h1>
 <h3 align="center">A passionate frontend developer from India with knowledge of backend.</h3>
