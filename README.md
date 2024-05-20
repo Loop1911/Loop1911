@@ -1,5 +1,5 @@
-![logo](file:///C:/Users/naika/Downloads/Setup.jpg)
 
+![Alt text](file:///C:/Users/naika/Downloads/Setup.jpg?raw=true "Optional Title")
 
 <h1 align="center">Hi 👋, I'm Aryan Naik</h1>
 <h3 align="center">A passionate frontend developer from India with knowledge of backend.</h3>
