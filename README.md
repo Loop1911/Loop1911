@@ -1,4 +1,4 @@
-![logo](https://thumbor.autonomous.ai/JFDrqbJza29_5HF-103th6PYlfY=/1600x900/smart/https://cdn.autonomous.ai/static/upload/images/new_post/guide-to-a-pro-gaming-setup-3904-1643344819313.jpg)
+![logo](file:///C:/Users/naika/Downloads/Setup.jpg)
 
 
 <h1 align="center">Hi 👋, I'm Aryan Naik</h1>
