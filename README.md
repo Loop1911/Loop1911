@@ -1,4 +1,4 @@
-
+![logo](https://i.pinimg.com/736x/1c/1b/c6/1c1bc60c014886be70bc40dd3f0e7f62.jpg)
 
 <h1 align="center">Hi 👋, I'm Aryan Naik</h1>
 <h3 align="center">A passionate frontend developer from India with knowledge of backend.</h3>
