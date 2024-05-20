@@ -1,4 +1,4 @@
-![logo](https://i.pinimg.com/736x/1c/1b/c6/1c1bc60c014886be70bc40dd3f0e7f62.jpg)
+![logo](![https://thumbor.autonomous.ai/p3fyyZZVnqcSmUKgVl_3TWwYZnU=/1600x900/smart/filters:format(webp)/https://storage.googleapis.com/s3-autonomous-upgrade-3/static/upload/images/new_post/guide-to-a-pro-gaming-setup-3904-1643344819313.jpg)
 
 <h1 align="center">Hi 👋, I'm Aryan Naik</h1>
 <h3 align="center">A passionate frontend developer from India with knowledge of backend.</h3>
