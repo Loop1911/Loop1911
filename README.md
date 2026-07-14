@@ -9,10 +9,13 @@ Currently, I am working as an **Agent AI developer**, diving deep into understan
 
 Also everyone should know the hard truth 
 <p align ="centre"><img src="https://i.programmerhumor.io/2021/06/programmerhumor-io-programming-memes-f25b6704b0b85d9.jpg" alt="loop1911" width="500"</p>
-### 🚀 My Skillset: Not Just "Artificial"
+
+
+<p>### 🚀 My Skillset: Not Just "Artificial"
 * **Machine Learning & Deep Learning:** I don't just "do AI," I understand the intricacies of its foundations, you could say I have a deep understanding of how it all works. *(1.5 years of professional experience)*
 * **Agent AI Development:** This is my life. I design, build, and optimize systems of communicating AI agents, which is what I am currently working on.
-* **AI Architecture:** Being honest, everyone is understanding architectures no one knows alls and I am one of those.
+* **AI Architecture:** Being honest, everyone is understanding architectures no one knows alls and I am one of those.</p>
+
 
 <p align="left">
   <img src="https://i.programmerhumor.io/2026/05/7add122444df117050c636fd8d4ba8ed7c37a15e5e035084f3c0a4e9b1bbd991.jpeg" alt="loop1911" width="500"/>
