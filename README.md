@@ -1,10 +1,8 @@
-![logo](https://thumbor.autonomous.ai/p3fyyZZVnqcSmUKgVl_3TWwYZnU=/1600x900/smart/filters:format(webp)/https://storage.googleapis.com/s3-autonomous-upgrade-3/static/upload/images/new_post/guide-to-a-pro-gaming-setup-3904-1643344819313.jpg)
 
 <h1 align="Left">Hi 👋, I'm Aryan Naik</h1>
 <h3 align="Left">AI  Developer</h3>
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=loop1911&label=Profile%20views&color=0e75b6&style=flat" alt="loop1911" /> </p>
+<p align="left"><img src = "https://i.programmerhumor.io/2026/05/7add122444df117050c636fd8d4ba8ed7c37a15e5e035084f3c0a4e9b1bbd991.jpeg" alt="loop1911" /></p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=loop1911" alt="loop1911" /></a> </p>
 
