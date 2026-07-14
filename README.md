@@ -1,7 +1,8 @@
 ![logo](https://thumbor.autonomous.ai/p3fyyZZVnqcSmUKgVl_3TWwYZnU=/1600x900/smart/filters:format(webp)/https://storage.googleapis.com/s3-autonomous-upgrade-3/static/upload/images/new_post/guide-to-a-pro-gaming-setup-3904-1643344819313.jpg)
 
-<h1 align="center">Hi 👋, I'm Aryan Naik</h1>
-<h3 align="center">AI and Frontend Developer</h3>
+<h1 align="Left">Hi 👋, I'm Aryan Naik</h1>
+<h3 align="Left">AI  Developer</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=loop1911&label=Profile%20views&color=0e75b6&style=flat" alt="loop1911" /> </p>
 
