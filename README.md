@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Aryan Naik</h1>
+<h1 align="left">Hi 👋, I'm Aryan </h1>
 <h3 align="left">AI Developer</h3>
 
 Hello, I am Aryan Naik—a developer with knowledge of **Machine Learning** and **Deep Learning**, which are subsets of AI, so I do know AI! 
