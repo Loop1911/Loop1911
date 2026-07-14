@@ -7,7 +7,8 @@ Currently, I am working as an **Agent AI developer**, diving deep into understan
 
 > 🎯 **My Strong Suit:** Beyond the code, communication is my absolute strong suit. .
 
-
+Also everyone should know the hard truth 
+<p align ="centre"><img src="https://i.programmerhumor.io/2021/06/programmerhumor-io-programming-memes-f25b6704b0b85d9.jpg" alt="loop1911" width="500"</p>
 ### 🚀 My Skillset: Not Just "Artificial"
 * **Machine Learning & Deep Learning:** I don't just "do AI," I understand the intricacies of its foundations, you could say I have a deep understanding of how it all works. *(1.5 years of professional experience)*
 * **Agent AI Development:** This is my life. I design, build, and optimize systems of communicating AI agents, which is what I am currently working on.
